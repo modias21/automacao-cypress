@@ -1,0 +1,15 @@
+{
+  "name": "magalu",
+  "version": "1.0.0",
+  "description": "desafio",
+  "main": "hammer.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "murillo",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.0.1"
+  }
+}

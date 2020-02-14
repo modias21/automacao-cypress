@@ -3,7 +3,7 @@
 
 Passo a passo: 
 
-01 - Abrir o terminal na pasta do projeto digitar npm install e esperar finalizar.
+01 - Abrir o terminal na pasta do projeto digitar "npm install" e esperar finalizar.
 
 02 - No mesmo terminal digitar "npx serve" para que possa subir o servidor.
 
@@ -11,4 +11,4 @@ Passo a passo:
 
 04 - Com cypress aberto clique em "quadrado.spec.js".
 
-05 - Será executado a automação, espere finalizar e observe que ao lado esquerdo está sendo apresentado o resultado. 
+05 - Será executado a automação, espere finalizar e observe que ao lado esquerdo o resultado. 
